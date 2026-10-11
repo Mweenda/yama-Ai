@@ -1,0 +1,6 @@
+{
+  "name": "Yama AI - Context-Aware RAG & LLM Platform",
+  "description": "Context-Aware RAG and LLM Platform with multi-tenant knowledge bases, grounded PDF search, interactive page citations, and tailored persona prompting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
